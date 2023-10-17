@@ -1,1 +1,2 @@
 # LearnPython
+Ich lerne Python
