@@ -18,4 +18,10 @@ class node:
     def setNext(self, next):
         self.next = next
 
-
+        
+# TODO
+# Insertion
+# Deletion
+# Display List 
+# Search by Key
+# Delete by Key
